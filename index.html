@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>TOEIC 單字四選一</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">TOEIC VOCAB QUIZ</p>
+        <h1>單字四選一</h1>
+      </div>
+      <button id="resetStats" class="ghost" type="button">重設統計</button>
+    </header>
+
+    <section class="stats" aria-label="作答統計">
+      <div><span id="loadedCount">—</span><small>單字</small></div>
+      <div><span id="answeredCount">0</span><small>已作答</small></div>
+      <div><span id="accuracy">—</span><small>正確率</small></div>
+      <div><span id="streak">0</span><small>連對</small></div>
+    </section>
+
+    <section class="controls" aria-label="題目設定">
+      <label>
+        題庫
+        <select id="familiarityFilter">
+          <option value="all">全部</option>
+          <option value="新單字">新單字</option>
+          <option value="複習中">複習中</option>
+          <option value="熟悉">熟悉</option>
+        </select>
+      </label>
+      <label class="check-row">
+        <input id="wrongFirst" type="checkbox" />
+        <span>錯題優先</span>
+      </label>
+    </section>
+
+    <section class="quiz-card" aria-live="polite">
+      <div class="question-meta">
+        <span id="posBadge" class="badge">—</span>
+        <span id="progressText">載入中…</span>
+      </div>
+
+      <h2 id="word">Loading…</h2>
+      <p class="prompt">選出最符合的中文意思</p>
+
+      <div id="choices" class="choices" role="group" aria-label="答案選項"></div>
+
+      <div id="feedback" class="feedback hidden">
+        <strong id="feedbackTitle"></strong>
+        <p id="correctMeaning"></p>
+        <p id="example" class="example"></p>
+      </div>
+
+      <button id="nextButton" class="next hidden" type="button">下一題 →</button>
+    </section>
+
+    <p class="hint">快捷鍵：1–4 / A–D 作答，Enter 下一題</p>
+    <p id="errorBox" class="error hidden"></p>
+  </main>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
