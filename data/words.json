@@ -48,6 +48,14 @@
     "pos": "other"
   },
   {
+    "word": "be premised on",
+    "meaning": "以……為前提；建立在……之上",
+    "example": "The strategy is premised on continued economic growth.",
+    "addedDate": "2026-08-15",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
     "word": "be scheduled for + 日期",
     "meaning": "排定於……；預定於……",
     "example": "The conference is scheduled for May 15.",
@@ -158,6 +166,22 @@
     "addedDate": "2026-08-13",
     "familiarity": "新單字",
     "pos": "other"
+  },
+  {
+    "word": "premise",
+    "meaning": "前提；假設",
+    "example": "The plan is based on the premise that demand will continue to grow.",
+    "addedDate": "2026-08-15",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "premises",
+    "meaning": "場所；營業場所；公司場地",
+    "example": "Smoking is prohibited on the premises.",
+    "addedDate": "2026-08-15",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "subsequent",
