@@ -24,6 +24,46 @@
     "pos": "noun"
   },
   {
+    "word": "admission",
+    "meaning": "入場；准許進入",
+    "example": "The admission fee is $20 per person.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "admit",
+    "meaning": "准許進入；承認",
+    "example": "Only registered guests will be admitted to the event.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "amenity",
+    "meaning": "便利設施、服務",
+    "example": "The hotel offers several amenities for its guests.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "applicant",
+    "meaning": "申請人、求職者",
+    "example": "We are looking for qualified applicants for the position.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "appraisal",
+    "meaning": "評估、鑑定",
+    "example": "Employees receive a performance appraisal every year.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "as if",
     "meaning": "好像、彷彿",
     "example": "She looked as if she was tired.",
@@ -38,6 +78,30 @@
     "addedDate": "2026-08-13",
     "familiarity": "新單字",
     "pos": "other"
+  },
+  {
+    "word": "assemble",
+    "meaning": "組裝；集合",
+    "example": "Workers assemble the parts at the factory.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "assembly",
+    "meaning": "組裝；集會",
+    "example": "The products are manufactured on an assembly line.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "banquet",
+    "meaning": "宴會",
+    "example": "The company will hold its year-end banquet next Friday.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "be planned for + 日期",
@@ -180,6 +244,22 @@
     "meaning": "場所；營業場所；公司場地",
     "example": "Smoking is prohibited on the premises.",
     "addedDate": "2026-08-15",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "revise",
+    "meaning": "修訂、修改",
+    "example": "We need to revise the proposal before submitting it.",
+    "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "revision",
+    "meaning": "修訂；修正版",
+    "example": "The report requires further revision.",
+    "addedDate": "2026-08-16",
     "familiarity": "新單字",
     "pos": "noun"
   },
