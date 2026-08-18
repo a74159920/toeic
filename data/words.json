@@ -136,6 +136,22 @@
     "pos": "other"
   },
   {
+    "word": "bear a grudge",
+    "meaning": "懷恨；記仇",
+    "example": "He has never been one to bear a grudge.",
+    "addedDate": "2026-08-19",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "caveat",
+    "meaning": "警告；但書；限制條件；注意事項",
+    "example": "There is one important caveat to this recommendation.",
+    "addedDate": "2026-08-19",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "consequently",
     "meaning": "因此、所以、結果",
     "example": "Sales declined; consequently, production was reduced.",
@@ -188,6 +204,22 @@
     "meaning": "儘管、雖然（已知事實）",
     "example": "Even though he was late, we waited for him.",
     "addedDate": "2026-08-13",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "grudge",
+    "meaning": "怨恨；芥蒂；積怨",
+    "example": "She still holds a grudge against her former manager.",
+    "addedDate": "2026-08-19",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "hold a grudge",
+    "meaning": "懷恨在心；記仇",
+    "example": "I don't hold a grudge against him.",
+    "addedDate": "2026-08-19",
     "familiarity": "新單字",
     "pos": "other"
   },
@@ -302,5 +334,21 @@
     "addedDate": "2026-08-13",
     "familiarity": "新單字",
     "pos": "adjective"
+  },
+  {
+    "word": "with one caveat",
+    "meaning": "但有一個條件／但書",
+    "example": "I agree with the proposal, with one caveat.",
+    "addedDate": "2026-08-19",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "with the caveat that",
+    "meaning": "但前提／但書是……",
+    "example": "We can approve the request, with the caveat that the budget remains unchanged.",
+    "addedDate": "2026-08-19",
+    "familiarity": "新單字",
+    "pos": "other"
   }
 ]
