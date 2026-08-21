@@ -40,6 +40,30 @@
     "pos": "verb"
   },
   {
+    "word": "advance access",
+    "meaning": "提前存取權、優先使用權",
+    "example": "Members receive advance access to new products.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "alert",
+    "meaning": "警覺的；警報；提醒、警告",
+    "example": "Employees should remain alert to safety hazards.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "alertness",
+    "meaning": "警覺性、清醒程度；靈活、反應靈敏（依語境）",
+    "example": "Drivers must maintain a high level of alertness.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "amenity",
     "meaning": "便利設施、服務",
     "example": "The hotel offers several amenities for its guests.",
@@ -96,10 +120,26 @@
     "pos": "noun"
   },
   {
+    "word": "attribute",
+    "meaning": "特徵、屬性；把……歸因於",
+    "example": "The improvement was attributed to better training.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "banquet",
     "meaning": "宴會",
     "example": "The company will hold its year-end banquet next Friday.",
     "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "basis",
+    "meaning": "基礎；方式、原則",
+    "example": "Employees are evaluated on a regular basis.",
+    "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "noun"
   },
@@ -192,6 +232,22 @@
     "pos": "noun"
   },
   {
+    "word": "essential",
+    "meaning": "必要的；核心的",
+    "example": "Good communication is essential for effective teamwork.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "essentially",
+    "meaning": "基本上、本質上",
+    "example": "The two proposals are essentially the same.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "adverb"
+  },
+  {
     "word": "even if",
     "meaning": "即使、就算（假設情況）",
     "example": "Even if it rains, the event will continue.",
@@ -208,6 +264,30 @@
     "pos": "other"
   },
   {
+    "word": "excerpt",
+    "meaning": "節錄、摘錄",
+    "example": "The article includes an excerpt from the author's new book.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "for lease",
+    "meaning": "出租中、供出租",
+    "example": "Office space is available for lease.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "gourmet",
+    "meaning": "美食家；高級的、精緻的、美食級的",
+    "example": "The hotel offers a variety of gourmet dishes.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
     "word": "grudge",
     "meaning": "怨恨；芥蒂；積怨",
     "example": "She still holds a grudge against her former manager.",
@@ -222,6 +302,14 @@
     "addedDate": "2026-08-19",
     "familiarity": "新單字",
     "pos": "other"
+  },
+  {
+    "word": "incur",
+    "meaning": "招致、產生、承擔（費用、損失、債務等）",
+    "example": "Customers may incur additional charges for late payments.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "verb"
   },
   {
     "word": "intangible",
@@ -256,12 +344,68 @@
     "pos": "noun"
   },
   {
+    "word": "itinerary",
+    "meaning": "行程表、旅遊行程",
+    "example": "Please review the itinerary before your business trip.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "lease",
+    "meaning": "租約；租用、出租",
+    "example": "The company signed a three-year lease.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "now that",
     "meaning": "既然現在……；由於現在……",
     "example": "Now that the project is complete, we can focus on the next phase.",
     "addedDate": "2026-08-13",
     "familiarity": "新單字",
     "pos": "other"
+  },
+  {
+    "word": "occupation",
+    "meaning": "職業",
+    "example": "Please state your occupation on the application form.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "of interest",
+    "meaning": "有興趣的；值得注意的；相關的",
+    "example": "This seminar may be of interest to business owners.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "on a case-by-case basis",
+    "meaning": "視個別情況而定；逐案處理",
+    "example": "Requests will be reviewed on a case-by-case basis.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "petition",
+    "meaning": "請願書；請願、正式要求",
+    "example": "Local residents signed a petition against the proposed development.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "physician",
+    "meaning": "醫師",
+    "example": "Please consult your physician before taking this medication.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "premise",
@@ -276,6 +420,14 @@
     "meaning": "場所；營業場所；公司場地",
     "example": "Smoking is prohibited on the premises.",
     "addedDate": "2026-08-15",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "regimen",
+    "meaning": "有系統的訓練、治療或生活計畫",
+    "example": "The doctor recommended a new exercise regimen.",
+    "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "noun"
   },
