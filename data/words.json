@@ -48,6 +48,14 @@
     "pos": "other"
   },
   {
+    "word": "ahead of",
+    "meaning": "在……之前；領先……",
+    "example": "The project was completed ahead of schedule.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
     "word": "alert",
     "meaning": "警覺的；警報；提醒、警告",
     "example": "Employees should remain alert to safety hazards.",
@@ -76,6 +84,22 @@
     "meaning": "申請人、求職者",
     "example": "We are looking for qualified applicants for the position.",
     "addedDate": "2026-08-16",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "appoint",
+    "meaning": "任命、指派",
+    "example": "The board appointed Ms. Chen as the new director.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "appointment",
+    "meaning": "預約、約會；任命",
+    "example": "Please call to make an appointment.",
+    "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "noun"
   },
@@ -144,6 +168,14 @@
     "pos": "noun"
   },
   {
+    "word": "be appointed",
+    "meaning": "被任命、獲指派",
+    "example": "She was appointed as the new department head.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
     "word": "be planned for + 日期",
     "meaning": "預定於……",
     "example": "The meeting is planned for August 20.",
@@ -184,6 +216,14 @@
     "pos": "other"
   },
   {
+    "word": "brochure",
+    "meaning": "宣傳冊、小冊子",
+    "example": "Please refer to the brochure for more information.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "caveat",
     "meaning": "警告；但書；限制條件；注意事項",
     "example": "There is one important caveat to this recommendation.",
@@ -206,6 +246,22 @@
     "addedDate": "2026-08-09",
     "familiarity": "新單字",
     "pos": "verb"
+  },
+  {
+    "word": "demolish",
+    "meaning": "拆除、拆毀",
+    "example": "The old building will be demolished next month.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "demolition",
+    "meaning": "拆除、拆毀",
+    "example": "Demolition of the old building will begin next week.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "enclose",
@@ -304,6 +360,14 @@
     "pos": "other"
   },
   {
+    "word": "impose",
+    "meaning": "強加、施加；徵收",
+    "example": "The government imposed new regulations on manufacturers.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
     "word": "incur",
     "meaning": "招致、產生、承擔（費用、損失、債務等）",
     "example": "Customers may incur additional charges for late payments.",
@@ -360,6 +424,22 @@
     "pos": "noun"
   },
   {
+    "word": "moderate",
+    "meaning": "適度的、中等的；緩和、主持",
+    "example": "Sales increased at a moderate rate.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "moderately",
+    "meaning": "適度地、中等程度地",
+    "example": "The hotel rooms are moderately priced.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "adverb"
+  },
+  {
     "word": "now that",
     "meaning": "既然現在……；由於現在……",
     "example": "Now that the project is complete, we can focus on the next phase.",
@@ -387,6 +467,14 @@
     "word": "on a case-by-case basis",
     "meaning": "視個別情況而定；逐案處理",
     "example": "Requests will be reviewed on a case-by-case basis.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
+    "word": "one another",
+    "meaning": "彼此、互相",
+    "example": "Team members should support one another.",
     "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "other"
@@ -448,6 +536,14 @@
     "pos": "noun"
   },
   {
+    "word": "seminar",
+    "meaning": "研討會、講座",
+    "example": "Employees are encouraged to attend the seminar.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "subsequent",
     "meaning": "隨後的、之後的、後續的",
     "example": "Sales increased in subsequent months.",
@@ -480,12 +576,28 @@
     "pos": "adjective"
   },
   {
+    "word": "teamwork",
+    "meaning": "團隊合作、團隊精神",
+    "example": "The activities are designed to build teamwork.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "timely",
     "meaning": "及時的、適時的",
     "example": "Thank you for your timely response.",
     "addedDate": "2026-08-13",
     "familiarity": "新單字",
     "pos": "adjective"
+  },
+  {
+    "word": "unveil",
+    "meaning": "公布、揭曉；推出",
+    "example": "The company will unveil its new product next month.",
+    "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "verb"
   },
   {
     "word": "with one caveat",
