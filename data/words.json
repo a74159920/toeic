@@ -232,6 +232,30 @@
     "pos": "noun"
   },
   {
+    "word": "commitment",
+    "meaning": "承諾；投入、奉獻",
+    "example": "The company has made a commitment to improving customer service.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "committed",
+    "meaning": "致力於…的；堅定投入的",
+    "example": "We are committed to providing excellent service.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "committee",
+    "meaning": "委員會",
+    "example": "The committee will review the proposal next week.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "consequently",
     "meaning": "因此、所以、結果",
     "example": "Sales declined; consequently, production was reduced.",
@@ -246,6 +270,14 @@
     "addedDate": "2026-08-09",
     "familiarity": "新單字",
     "pos": "verb"
+  },
+  {
+    "word": "courier",
+    "meaning": "快遞員；快遞服務",
+    "example": "The documents will be delivered by courier tomorrow.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "demolish",
@@ -328,6 +360,14 @@
     "pos": "noun"
   },
   {
+    "word": "expertise",
+    "meaning": "專業知識、專業技能",
+    "example": "We need someone with expertise in marketing.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "for lease",
     "meaning": "出租中、供出租",
     "example": "Office space is available for lease.",
@@ -336,12 +376,28 @@
     "pos": "other"
   },
   {
+    "word": "garment",
+    "meaning": "衣服、服裝",
+    "example": "The factory produces high-quality garments.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "gourmet",
     "meaning": "美食家；高級的、精緻的、美食級的",
     "example": "The hotel offers a variety of gourmet dishes.",
     "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "adjective"
+  },
+  {
+    "word": "grant",
+    "meaning": "補助金、補助款",
+    "example": "The organization received a government grant.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "grudge",
@@ -368,6 +424,14 @@
     "pos": "verb"
   },
   {
+    "word": "inception",
+    "meaning": "開始；創立之初",
+    "example": "The company has grown rapidly since its inception.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "incur",
     "meaning": "招致、產生、承擔（費用、損失、債務等）",
     "example": "Customers may incur additional charges for late payments.",
@@ -376,12 +440,44 @@
     "pos": "verb"
   },
   {
+    "word": "initiative",
+    "meaning": "主動性；新計畫、倡議",
+    "example": "The company launched a new environmental initiative.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "inquire",
+    "meaning": "詢問、查詢",
+    "example": "I am writing to inquire about the position.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "詢問、查詢；調查",
+    "example": "Please contact us if you have any inquiries.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "intangible",
     "meaning": "無形的；難以具體衡量的",
     "example": "Reputation is an intangible asset.",
     "addedDate": "2026-08-13",
     "familiarity": "新單字",
     "pos": "adjective"
+  },
+  {
+    "word": "intermission",
+    "meaning": "中場休息、幕間休息",
+    "example": "Refreshments will be available during the intermission.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "issuance",
@@ -480,6 +576,22 @@
     "pos": "other"
   },
   {
+    "word": "orientation",
+    "meaning": "新人說明會、訓練；方向定位",
+    "example": "New employees must attend an orientation session.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "pamphlet",
+    "meaning": "小冊子、宣傳冊",
+    "example": "Please read the pamphlet for more information.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "petition",
     "meaning": "請願書；請願、正式要求",
     "example": "Local residents signed a petition against the proposed development.",
@@ -512,10 +624,66 @@
     "pos": "noun"
   },
   {
+    "word": "proceeds",
+    "meaning": "收益、所得款項",
+    "example": "All proceeds from the event will be donated to charity.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "prospect",
+    "meaning": "前景；可能性；潛在客戶",
+    "example": "The company has excellent prospects for growth.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "prospective",
+    "meaning": "潛在的；可能成為…的",
+    "example": "The seminar is open to prospective employees.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "reception",
+    "meaning": "接待；招待會；接待處；反響",
+    "example": "Please leave the package at the reception desk.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "receptionist",
+    "meaning": "櫃檯接待員",
+    "example": "Please give the documents to the receptionist.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "refreshments",
+    "meaning": "茶點、點心與飲料",
+    "example": "Light refreshments will be served after the seminar.",
+    "addedDate": "2026-08-23",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "regimen",
     "meaning": "有系統的訓練、治療或生活計畫",
     "example": "The doctor recommended a new exercise regimen.",
     "addedDate": "2026-08-22",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "remuneration",
+    "meaning": "報酬、薪酬",
+    "example": "The position offers competitive remuneration and benefits.",
+    "addedDate": "2026-08-23",
     "familiarity": "新單字",
     "pos": "noun"
   },
