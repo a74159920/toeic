@@ -624,6 +624,22 @@
     "pos": "noun"
   },
   {
+    "word": "prior",
+    "meaning": "先前的；事先的",
+    "example": "Prior experience is not required for this position.",
+    "addedDate": "2026-08-24",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "prior to",
+    "meaning": "在……之前；先於……",
+    "example": "Please submit the form prior to the deadline.",
+    "addedDate": "2026-08-24",
+    "familiarity": "新單字",
+    "pos": "other"
+  },
+  {
     "word": "proceeds",
     "meaning": "收益、所得款項",
     "example": "All proceeds from the event will be donated to charity.",
