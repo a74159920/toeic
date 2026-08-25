@@ -232,11 +232,27 @@
     "pos": "noun"
   },
   {
+    "word": "carry out",
+    "meaning": "執行、實施、進行",
+    "example": "The company will carry out a customer survey next month.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
     "word": "caveat",
     "meaning": "警告；但書；限制條件；注意事項",
     "example": "There is one important caveat to this recommendation.",
     "addedDate": "2026-08-19",
     "familiarity": "熟悉",
+    "pos": "noun"
+  },
+  {
+    "word": "commission",
+    "meaning": "佣金；委員會；委託",
+    "example": "The company commissioned an architect to design its new headquarters.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
     "pos": "noun"
   },
   {
@@ -336,6 +352,22 @@
     "pos": "adjective"
   },
   {
+    "word": "draw back",
+    "meaning": "後退、退縮",
+    "example": "Investors may draw back from the project.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "drawback",
+    "meaning": "缺點、不利因素",
+    "example": "One drawback of the new system is its high cost.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "enclose",
     "meaning": "附上、隨附；包圍、圍住",
     "example": "Please enclose a copy of your receipt.",
@@ -414,6 +446,14 @@
     "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "other"
+  },
+  {
+    "word": "furnishings",
+    "meaning": "家具、室內陳設用品",
+    "example": "The office was renovated with new furnishings.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "garment",
@@ -752,6 +792,14 @@
     "pos": "adjective"
   },
   {
+    "word": "proprietor",
+    "meaning": "業主、店主、所有人",
+    "example": "The proprietor plans to renovate the restaurant.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "prospect",
     "meaning": "前景；可能性；潛在客戶",
     "example": "The company has excellent prospects for growth.",
@@ -824,6 +872,22 @@
     "pos": "noun"
   },
   {
+    "word": "revitalization",
+    "meaning": "振興、復甦、重新活化",
+    "example": "The city launched a revitalization project for the downtown area.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "revitalize",
+    "meaning": "振興、使恢復活力",
+    "example": "The project is expected to revitalize the neighborhood.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
     "word": "seminar",
     "meaning": "研討會、講座",
     "example": "Employees are encouraged to attend the seminar.",
@@ -878,6 +942,14 @@
     "addedDate": "2026-08-24",
     "familiarity": "新單字",
     "pos": "adverb"
+  },
+  {
+    "word": "thoroughfare",
+    "meaning": "主要道路、幹道",
+    "example": "The avenue is one of the city's busiest thoroughfares.",
+    "addedDate": "2026-08-25",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "timely",
