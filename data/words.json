@@ -136,6 +136,22 @@
     "pos": "other"
   },
   {
+    "word": "aspire",
+    "meaning": "渴望；立志成為",
+    "example": "She aspires to become a senior manager.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "aspiring",
+    "meaning": "有抱負的；有志成為……的",
+    "example": "The program is designed for aspiring entrepreneurs.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
     "word": "assemble",
     "meaning": "組裝；集合",
     "example": "Workers assemble the parts at the factory.",
@@ -352,6 +368,22 @@
     "pos": "adjective"
   },
   {
+    "word": "diminish",
+    "meaning": "減少；降低；削弱",
+    "example": "Demand for the product has diminished considerably.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "diminishing",
+    "meaning": "逐漸減少的；逐漸降低的",
+    "example": "The company is facing diminishing demand.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
     "word": "draw back",
     "meaning": "後退、退縮",
     "example": "Investors may draw back from the project.",
@@ -390,6 +422,22 @@
     "addedDate": "2026-08-13",
     "familiarity": "熟悉",
     "pos": "noun"
+  },
+  {
+    "word": "entrepreneur",
+    "meaning": "企業家；創業家",
+    "example": "The entrepreneur launched a new online business.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "entrepreneurial",
+    "meaning": "企業家的；創業的",
+    "example": "The course helps students develop entrepreneurial skills.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
   },
   {
     "word": "essential",
@@ -440,12 +488,36 @@
     "pos": "noun"
   },
   {
+    "word": "faculty",
+    "meaning": "大學教職員；學院",
+    "example": "All faculty members are invited to attend the meeting.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "for lease",
     "meaning": "出租中、供出租",
     "example": "Office space is available for lease.",
     "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "other"
+  },
+  {
+    "word": "foresee",
+    "meaning": "預見；預料",
+    "example": "Analysts foresee continued growth next year.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "foreseeable",
+    "meaning": "可預見的；可以預料的",
+    "example": "No major changes are expected in the foreseeable future.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
   },
   {
     "word": "furnishings",
@@ -680,6 +752,14 @@
     "pos": "noun"
   },
   {
+    "word": "outlook",
+    "meaning": "前景；展望；觀點",
+    "example": "The economic outlook remains positive.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "pamphlet",
     "meaning": "小冊子、宣傳冊",
     "example": "Please read the pamphlet for more information.",
@@ -720,6 +800,14 @@
     "pos": "noun"
   },
   {
+    "word": "pose",
+    "meaning": "構成、造成；提出；擺姿勢",
+    "example": "Rising costs may pose a serious challenge to the company.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
     "word": "precedent",
     "meaning": "先例、前例",
     "example": "The decision could set a dangerous precedent.",
@@ -741,6 +829,14 @@
     "example": "Smoking is prohibited on the premises.",
     "addedDate": "2026-08-15",
     "familiarity": "熟悉",
+    "pos": "noun"
+  },
+  {
+    "word": "press release",
+    "meaning": "新聞稿",
+    "example": "The company issued a press release announcing the acquisition.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
     "pos": "noun"
   },
   {
@@ -814,6 +910,14 @@
     "addedDate": "2026-08-23",
     "familiarity": "新單字",
     "pos": "adjective"
+  },
+  {
+    "word": "ratio",
+    "meaning": "比例、比率",
+    "example": "The ratio of managers to employees is 1 to 10.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "reception",
@@ -912,6 +1016,30 @@
     "pos": "adverb"
   },
   {
+    "word": "subsidize",
+    "meaning": "補助、資助",
+    "example": "The company subsidizes employees' transportation costs.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "subsidized",
+    "meaning": "受補助的",
+    "example": "Employees are eligible for subsidized meals.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
+    "word": "subsidy",
+    "meaning": "補助金、津貼",
+    "example": "The project received a government subsidy.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "take place on + 日期",
     "meaning": "於某日舉行；發生",
     "example": "The ceremony will take place on Friday.",
@@ -974,6 +1102,14 @@
     "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "verb"
+  },
+  {
+    "word": "venue",
+    "meaning": "活動、會議等的舉辦場地",
+    "example": "The hotel was selected as the venue for the conference.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
   },
   {
     "word": "with one caveat",
