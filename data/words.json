@@ -296,6 +296,22 @@
     "pos": "noun"
   },
   {
+    "word": "compensate",
+    "meaning": "補償；賠償；彌補",
+    "example": "The airline compensated passengers for the delay.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "verb"
+  },
+  {
+    "word": "compensation",
+    "meaning": "補償；賠償；薪酬",
+    "example": "Employees will receive additional compensation.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "consequently",
     "meaning": "因此、所以、結果",
     "example": "Sales declined; consequently, production was reduced.",
@@ -496,6 +512,14 @@
     "pos": "noun"
   },
   {
+    "word": "flat fee",
+    "meaning": "固定費用；統一收費",
+    "example": "The company charges a flat fee of $50 for delivery.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "for lease",
     "meaning": "出租中、供出租",
     "example": "Office space is available for lease.",
@@ -582,6 +606,14 @@
     "addedDate": "2026-08-22",
     "familiarity": "新單字",
     "pos": "verb"
+  },
+  {
+    "word": "in regard to",
+    "meaning": "關於；就……而言",
+    "example": "I am writing in regard to your recent application.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "other"
   },
   {
     "word": "inception",
@@ -832,6 +864,22 @@
     "pos": "noun"
   },
   {
+    "word": "presence",
+    "meaning": "出席；存在；影響力、布局",
+    "example": "The company plans to expand its presence in Asia.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "present",
+    "meaning": "在場的；目前的",
+    "example": "All employees were present at the meeting.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
     "word": "press release",
     "meaning": "新聞稿",
     "example": "The company issued a press release announcing the acquisition.",
@@ -936,6 +984,22 @@
     "pos": "noun"
   },
   {
+    "word": "reference",
+    "meaning": "推薦人；推薦資料；參考資料",
+    "example": "Please provide two professional references with your application.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
+    "word": "reference check",
+    "meaning": "推薦人查核；背景查核",
+    "example": "The company will conduct a reference check before making an offer.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "noun"
+  },
+  {
     "word": "refreshments",
     "meaning": "茶點、點心與飲料",
     "example": "Light refreshments will be served after the seminar.",
@@ -958,6 +1022,14 @@
     "addedDate": "2026-08-23",
     "familiarity": "新單字",
     "pos": "noun"
+  },
+  {
+    "word": "retail",
+    "meaning": "零售；零售的",
+    "example": "The company operates several retail stores.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
   },
   {
     "word": "revise",
@@ -1112,11 +1184,27 @@
     "pos": "noun"
   },
   {
+    "word": "wholesale",
+    "meaning": "批發；批發的",
+    "example": "The supplier offers lower wholesale prices.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
+    "pos": "adjective"
+  },
+  {
     "word": "with one caveat",
     "meaning": "但有一個條件／但書",
     "example": "I agree with the proposal, with one caveat.",
     "addedDate": "2026-08-19",
     "familiarity": "熟悉",
+    "pos": "other"
+  },
+  {
+    "word": "with regard to",
+    "meaning": "關於；就……而言",
+    "example": "With regard to your request, we will respond shortly.",
+    "addedDate": "2026-08-26",
+    "familiarity": "新單字",
     "pos": "other"
   },
   {
