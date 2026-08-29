@@ -86,7 +86,14 @@ function nextWordFromPool() {
 }
 
 function makeChoices(target) {
-  const candidates = allWords.filter(w => w.word !== target.word && w.meaning !== target.meaning);
+  const focusedCandidates = filteredWords()
+    .filter(w => w.word !== target.word && w.meaning !== target.meaning);
+  const fallbackCandidates = allWords
+    .filter(w => w.word !== target.word && w.meaning !== target.meaning);
+
+  // 篩選題庫有至少 4 個不同單字時，四個選項都從同一題庫出。
+  // 例如選「考前字」時，就只會拿考前字互相當干擾選項。
+  const candidates = focusedCandidates.length >= 3 ? focusedCandidates : fallbackCandidates;
   const distractors = shuffle(candidates).slice(0, 3);
   if (distractors.length < 3) throw new Error('可用的不同中文選項不足 4 個。');
   return shuffle([target, ...distractors]);
