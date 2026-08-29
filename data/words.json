@@ -1,181 +1,5 @@
 [
   {
-    "word": "issuer",
-    "meaning": "發行者；發卡機構",
-    "example": "Contact your credit card issuer for assistance.",
-    "familiarity": "新單字",
-    "pos": "noun",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "issuance",
-    "meaning": "發行、核發",
-    "example": "The issuance of new shares was approved.",
-    "familiarity": "新單字",
-    "pos": "noun",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "issue",
-    "meaning": "問題、議題；期、號；發行、發布、核發",
-    "example": "The company issued a statement regarding the issue.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "be scheduled for + 日期",
-    "meaning": "排定於……；預定於……",
-    "example": "The conference is scheduled for May 15.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "take place on + 日期",
-    "meaning": "於某日舉行；發生",
-    "example": "The ceremony will take place on Friday.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "be set for + 日期",
-    "meaning": "定於……；預定於……",
-    "example": "The opening is set for September 1.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "be planned for + 日期",
-    "meaning": "預定於……",
-    "example": "The meeting is planned for August 20.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "timely",
-    "meaning": "及時的、適時的",
-    "example": "Thank you for your timely response.",
-    "familiarity": "新單字",
-    "pos": "adjective",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "tangible",
-    "meaning": "有形的；具體的、明確的",
-    "example": "The new policy produced tangible results.",
-    "familiarity": "新單字",
-    "pos": "adjective",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "subsequently",
-    "meaning": "隨後、之後、後來",
-    "example": "The policy was subsequently revised.",
-    "familiarity": "新單字",
-    "pos": "adverb",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "intangible",
-    "meaning": "無形的；難以具體衡量的",
-    "example": "Reputation is an intangible asset.",
-    "familiarity": "新單字",
-    "pos": "adjective",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "subsequent",
-    "meaning": "隨後的、之後的、後續的",
-    "example": "Sales increased in subsequent months.",
-    "familiarity": "新單字",
-    "pos": "adjective",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "as if",
-    "meaning": "好像、彷彿",
-    "example": "She looked as if she was tired.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "even if",
-    "meaning": "即使、就算（假設情況）",
-    "example": "Even if it rains, the event will continue.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "now that",
-    "meaning": "既然現在……；由於現在……",
-    "example": "Now that the project is complete, we can focus on the next phase.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "even though",
-    "meaning": "儘管、雖然（已知事實）",
-    "example": "Even though he was late, we waited for him.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "as though",
-    "meaning": "好像、彷彿、似乎",
-    "example": "He speaks as though he knows everything.",
-    "familiarity": "新單字",
-    "pos": "other",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "consequently",
-    "meaning": "因此、所以、結果",
-    "example": "Sales declined; consequently, production was reduced.",
-    "familiarity": "新單字",
-    "pos": "adverb",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "enclose",
-    "meaning": "附上、隨附；包圍、圍住",
-    "example": "Please enclose a copy of your receipt.",
-    "familiarity": "新單字",
-    "pos": "verb",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "enclosure",
-    "meaning": "附件；圍欄、圍起來的區域",
-    "example": "The animals are kept in a large enclosure.",
-    "familiarity": "新單字",
-    "pos": "noun",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "enclosed",
-    "meaning": "隨附的；封閉的、被圍住的",
-    "example": "Please see the enclosed document.",
-    "familiarity": "新單字",
-    "pos": "adjective",
-    "addedDate": "2026-08-13"
-  },
-  {
-    "word": "accommodation",
-    "meaning": "住宿；住宿設施；配合、調整、便利措施",
-    "example": "The price includes meals and accommodation.",
-    "familiarity": "新單字",
-    "pos": "noun",
-    "addedDate": "2026-08-13"
-  },
-  {
     "word": "accommodate",
     "meaning": "容納；配合、滿足需求；提供住宿",
     "example": "We will try to accommodate your request.",
@@ -192,52 +16,12 @@
     "addedDate": "2026-08-13"
   },
   {
-    "word": "consolidate",
-    "meaning": "鞏固；合併；整合",
-    "example": "The company consolidated its operations to reduce costs.",
+    "word": "accommodation",
+    "meaning": "住宿；住宿設施；配合、調整、便利措施",
+    "example": "The price includes meals and accommodation.",
     "familiarity": "新單字",
-    "pos": "verb",
-    "addedDate": "2026-08-09"
-  },
-  {
-    "word": "technical terms",
-    "meaning": "專業術語、專門用語",
-    "example": "The manual explains technical terms in simple language.",
-    "familiarity": "考前字",
     "pos": "noun",
-    "addedDate": "2026-08-29"
-  },
-  {
-    "word": "testimonials",
-    "meaning": "推薦文；客戶見證；證言",
-    "example": "The website features testimonials from satisfied customers.",
-    "familiarity": "考前字",
-    "pos": "noun",
-    "addedDate": "2026-08-29"
-  },
-  {
-    "word": "undertaking",
-    "meaning": "任務、事業；重大工作；承諾",
-    "example": "Renovating the hotel is a major undertaking.",
-    "familiarity": "考前字",
-    "pos": "noun",
-    "addedDate": "2026-08-29"
-  },
-  {
-    "word": "vicinity",
-    "meaning": "附近地區、鄰近地區",
-    "example": "Several restaurants are located in the vicinity.",
-    "familiarity": "考前字",
-    "pos": "noun",
-    "addedDate": "2026-08-29"
-  },
-  {
-    "word": "in the vicinity of",
-    "meaning": "在……附近、鄰近……",
-    "example": "The hotel is in the vicinity of the convention center.",
-    "familiarity": "考前字",
-    "pos": "other",
-    "addedDate": "2026-08-29"
+    "addedDate": "2026-08-13"
   },
   {
     "word": "accountable",
@@ -256,11 +40,75 @@
     "addedDate": "2026-08-29"
   },
   {
+    "word": "anticipate",
+    "meaning": "預期；預料；期待",
+    "example": "We anticipate an increase in customer demand.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "as if",
+    "meaning": "好像、彷彿",
+    "example": "She looked as if she was tired.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "as though",
+    "meaning": "好像、彷彿、似乎",
+    "example": "He speaks as though he knows everything.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "attain",
+    "meaning": "達成；獲得",
+    "example": "The company aims to attain its annual sales target.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
     "word": "authentic",
     "meaning": "真正的、真品的；道地的",
     "example": "The restaurant serves authentic Italian cuisine.",
     "familiarity": "考前字",
     "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "be planned for + 日期",
+    "meaning": "預定於……",
+    "example": "The meeting is planned for August 20.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "be scheduled for + 日期",
+    "meaning": "排定於……；預定於……",
+    "example": "The conference is scheduled for May 15.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "be set for + 日期",
+    "meaning": "定於……；預定於……",
+    "example": "The opening is set for September 1.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "coincide",
+    "meaning": "同時發生；一致",
+    "example": "The product launch will coincide with the trade show.",
+    "familiarity": "考前字",
+    "pos": "verb",
     "addedDate": "2026-08-29"
   },
   {
@@ -280,6 +128,38 @@
     "addedDate": "2026-08-29"
   },
   {
+    "word": "conform",
+    "meaning": "遵守；符合",
+    "example": "All products must conform to safety regulations.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "consequently",
+    "meaning": "因此、所以、結果",
+    "example": "Sales declined; consequently, production was reduced.",
+    "familiarity": "新單字",
+    "pos": "adverb",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "consolidate",
+    "meaning": "鞏固；合併；整合",
+    "example": "The company consolidated its operations to reduce costs.",
+    "familiarity": "新單字",
+    "pos": "verb",
+    "addedDate": "2026-08-09"
+  },
+  {
+    "word": "cordially",
+    "meaning": "誠摯地；熱情友善地",
+    "example": "You are cordially invited to attend the annual banquet.",
+    "familiarity": "考前字",
+    "pos": "adverb",
+    "addedDate": "2026-08-29"
+  },
+  {
     "word": "culinary",
     "meaning": "烹飪的、料理的",
     "example": "She enrolled in a culinary training program.",
@@ -296,6 +176,86 @@
     "addedDate": "2026-08-29"
   },
   {
+    "word": "enclose",
+    "meaning": "附上、隨附；包圍、圍住",
+    "example": "Please enclose a copy of your receipt.",
+    "familiarity": "新單字",
+    "pos": "verb",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "enclosed",
+    "meaning": "隨附的；封閉的、被圍住的",
+    "example": "Please see the enclosed document.",
+    "familiarity": "新單字",
+    "pos": "adjective",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "enclosure",
+    "meaning": "附件；圍欄、圍起來的區域",
+    "example": "The animals are kept in a large enclosure.",
+    "familiarity": "新單字",
+    "pos": "noun",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "endorse",
+    "meaning": "公開支持；認可；背書",
+    "example": "The proposal was endorsed by the board of directors.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "even if",
+    "meaning": "即使、就算（假設情況）",
+    "example": "Even if it rains, the event will continue.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "even though",
+    "meaning": "儘管、雖然（已知事實）",
+    "example": "Even though he was late, we waited for him.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "expedite",
+    "meaning": "加快；促進……迅速完成",
+    "example": "Please expedite the delivery of these materials.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "extensive",
+    "meaning": "廣泛的；大量的；全面的",
+    "example": "The company conducted extensive market research before the launch.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "extensive experience",
+    "meaning": "豐富的經驗",
+    "example": "Candidates with extensive experience in sales are preferred.",
+    "familiarity": "考前字",
+    "pos": "noun",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "facilitate",
+    "meaning": "促進；使便利",
+    "example": "The new software will facilitate communication between departments.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
     "word": "favorable condition",
     "meaning": "有利條件、良好條件",
     "example": "The project can proceed under favorable conditions.",
@@ -304,11 +264,291 @@
     "addedDate": "2026-08-29"
   },
   {
+    "word": "firmly",
+    "meaning": "堅定地；牢固地",
+    "example": "The company firmly supports the new safety policy.",
+    "familiarity": "考前字",
+    "pos": "adverb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "in the vicinity of",
+    "meaning": "在……附近、鄰近……",
+    "example": "The hotel is in the vicinity of the convention center.",
+    "familiarity": "考前字",
+    "pos": "other",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "intangible",
+    "meaning": "無形的；難以具體衡量的",
+    "example": "Reputation is an intangible asset.",
+    "familiarity": "新單字",
+    "pos": "adjective",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "issuance",
+    "meaning": "發行、核發",
+    "example": "The issuance of new shares was approved.",
+    "familiarity": "新單字",
+    "pos": "noun",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "issue",
+    "meaning": "問題、議題；期、號；發行、發布、核發",
+    "example": "The company issued a statement regarding the issue.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "issuer",
+    "meaning": "發行者；發卡機構",
+    "example": "Contact your credit card issuer for assistance.",
+    "familiarity": "新單字",
+    "pos": "noun",
+    "addedDate": "2026-08-13"
+  },
+  {
     "word": "lucrative",
     "meaning": "獲利豐厚的、有利可圖的",
     "example": "The company secured a lucrative contract with a major retailer.",
     "familiarity": "考前字",
     "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "mandatory",
+    "meaning": "強制的；義務性的；必須的",
+    "example": "Attendance at the safety training is mandatory.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "now that",
+    "meaning": "既然現在……；由於現在……",
+    "example": "Now that the project is complete, we can focus on the next phase.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "過時的；淘汰的",
+    "example": "The company replaced its obsolete computer systems.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "oversee",
+    "meaning": "監督；管理",
+    "example": "She was appointed to oversee the construction project.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "preliminary",
+    "meaning": "初步的；預備的",
+    "example": "The preliminary results will be reviewed next week.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "promising",
+    "meaning": "有前景的；有希望的",
+    "example": "The new product showed promising results during testing.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "refrain",
+    "meaning": "克制；避免",
+    "example": "Please refrain from using mobile phones during the presentation.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "reimburse",
+    "meaning": "償還；報銷",
+    "example": "The company will reimburse employees for travel expenses.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "rotating",
+    "meaning": "輪班的；輪流的",
+    "example": "Employees work on a rotating schedule.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "solely",
+    "meaning": "僅僅；完全地；單獨地",
+    "example": "The decision was based solely on cost considerations.",
+    "familiarity": "考前字",
+    "pos": "adverb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "solicit",
+    "meaning": "徵求；招攬",
+    "example": "The firm is soliciting feedback from its customers.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "streamline",
+    "meaning": "精簡；使更有效率",
+    "example": "The new system is designed to streamline the hiring process.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "subject to change",
+    "meaning": "可能變更；視情況而定",
+    "example": "The schedule is subject to change without notice.",
+    "familiarity": "考前字",
+    "pos": "other",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "subsequent",
+    "meaning": "隨後的、之後的、後續的",
+    "example": "Sales increased in subsequent months.",
+    "familiarity": "新單字",
+    "pos": "adjective",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "subsequently",
+    "meaning": "隨後、之後、後來",
+    "example": "The policy was subsequently revised.",
+    "familiarity": "新單字",
+    "pos": "adverb",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "substantial",
+    "meaning": "大量的；可觀的；重大的",
+    "example": "The renovation requires a substantial investment.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "take place on + 日期",
+    "meaning": "於某日舉行；發生",
+    "example": "The ceremony will take place on Friday.",
+    "familiarity": "新單字",
+    "pos": "other",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "tangible",
+    "meaning": "有形的；具體的、明確的",
+    "example": "The new policy produced tangible results.",
+    "familiarity": "新單字",
+    "pos": "adjective",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "technical terms",
+    "meaning": "專業術語、專門用語",
+    "example": "The manual explains technical terms in simple language.",
+    "familiarity": "考前字",
+    "pos": "noun",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "tentative",
+    "meaning": "暫定的；試探性的",
+    "example": "The tentative meeting date is September 5.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "testimonials",
+    "meaning": "推薦文；客戶見證；證言",
+    "example": "The website features testimonials from satisfied customers.",
+    "familiarity": "考前字",
+    "pos": "noun",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "timely",
+    "meaning": "及時的、適時的",
+    "example": "Thank you for your timely response.",
+    "familiarity": "新單字",
+    "pos": "adjective",
+    "addedDate": "2026-08-13"
+  },
+  {
+    "word": "unanimously",
+    "meaning": "一致地；全體同意地",
+    "example": "The board unanimously approved the proposal.",
+    "familiarity": "考前字",
+    "pos": "adverb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "undertaking",
+    "meaning": "任務、事業；重大工作；承諾",
+    "example": "Renovating the hotel is a major undertaking.",
+    "familiarity": "考前字",
+    "pos": "noun",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "vacate",
+    "meaning": "騰出；搬離；空出",
+    "example": "Tenants must vacate the building by the end of the month.",
+    "familiarity": "考前字",
+    "pos": "verb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "versatile",
+    "meaning": "多才多藝的；多用途的；適應性強的",
+    "example": "This versatile device can be used in several work environments.",
+    "familiarity": "考前字",
+    "pos": "adjective",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "vicinity",
+    "meaning": "附近地區、鄰近地區",
+    "example": "Several restaurants are located in the vicinity.",
+    "familiarity": "考前字",
+    "pos": "noun",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "virtually",
+    "meaning": "幾乎；實際上；以線上方式",
+    "example": "Virtually all employees completed the training on time.",
+    "familiarity": "考前字",
+    "pos": "adverb",
+    "addedDate": "2026-08-29"
+  },
+  {
+    "word": "waive",
+    "meaning": "放棄；免除",
+    "example": "The bank agreed to waive the service fee.",
+    "familiarity": "考前字",
+    "pos": "verb",
     "addedDate": "2026-08-29"
   }
 ]
